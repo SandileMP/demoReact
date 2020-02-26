@@ -1,0 +1,14 @@
+{
+    "trigger": true,
+    "modules": [
+        "verification-link"
+    ],
+    "parentResource": "demoappdb67a272",
+    "functionName": "demoappdb67a272CustomMessage",
+    "parentStack": "auth",
+    "triggerEnvs": "[{\"key\":\"RESOURCENAME\",\"value\":\"resourceName\"}]",
+    "triggerTemplate": "CustomMessage.json.ejs",
+    "roleName": "demoappdb67a272CustomMessage",
+    "skipEdit": true,
+    "resourceName": "demoappdb67a272CustomMessage"
+}

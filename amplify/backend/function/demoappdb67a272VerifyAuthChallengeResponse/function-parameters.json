@@ -1,0 +1,14 @@
+{
+    "trigger": true,
+    "modules": [
+        "captcha-verify"
+    ],
+    "parentResource": "demoappdb67a272",
+    "functionName": "demoappdb67a272VerifyAuthChallengeResponse",
+    "parentStack": "auth",
+    "triggerEnvs": "[]",
+    "triggerTemplate": "VerifyAuthChallengeResponse.json.ejs",
+    "roleName": "demoappdb67a272VerifyAuthChallengeResponse",
+    "skipEdit": true,
+    "resourceName": "demoappdb67a272VerifyAuthChallengeResponse"
+}
